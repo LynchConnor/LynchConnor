@@ -1,5 +1,4 @@
 ## Hi There 👋🏻
-- 👤 My name is Connor Lynch
 - 🧑🏻‍🎓 I'm a recent Software Engineering Graduate from the University of Greenwich.
 - 📱 SwiftUI is my favourite and dominant language
 - 💬 Pronouns: He/Him/His
