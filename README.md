@@ -1,6 +1,7 @@
 ## Hi There 👋🏻
 - 🧑🏻‍🎓 I'm a recent Software Engineering Graduate from the University of Greenwich.
 - 📱 I've been a SwiftUI/Swift Developer for one year now.
+- 🏆 I'm an 'Engineer in Business Award Winner', through pitching an iOS app to a group of judges.
 - 💬 Pronouns: He/Him/His
 
 ## Get in contact
