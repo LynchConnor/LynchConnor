@@ -1,6 +1,6 @@
 ## Hi There 👋🏻
 - 🧑🏻‍🎓 I'm a recent Software Engineering Graduate from the University of Greenwich.
-- 📱 In love with SwiftUI
+- 📱 I've been a SwiftUI/Swift for one year now.
 - 💬 Pronouns: He/Him/His
 
 ## Get in contact
