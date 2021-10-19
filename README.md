@@ -2,7 +2,8 @@
 - 🧑🏻‍🎓 I'm a Software Engineering Graduate from the University of Greenwich (2021).
 - 📱 I've been a SwiftUI/Swift Developer for one year now (2020-2021).
 - 🏆 I'm an 'Engineer in Business Award Winner', through pitching an iOS app to a group of judges, resulting in £3,000 of funding to build my app.
-- 😁 I like listening to Hamilton music, DIY and video games (Apex Legends).
+- 😁 I like listening to Hamilton music, doing DIY and playing video games (Apex Legends).
+- 💙 I love programming random apps, currently iForage
 - 💬 Pronouns: He/Him/His
 
 ## Get in contact
