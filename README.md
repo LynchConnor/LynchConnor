@@ -3,7 +3,8 @@
 - 🌿 Proud creator of [iForage](https://apps.apple.com/gb/app/iforage/id1592190038)
 - 💻 I've been a SwiftUI/Swift Developer for one year now (2020-2021).
 - 🏆 I'm an 'Engineer in Business Award Winner', which I achieved by pitching an iOS app to a group of judges, resulting in £3,000 of funding to build my app.
-- 😁 I like listening to Hamilton music, doing DIY and playing video games (Apex Legends).
+- 😁 I like listening to Hamilton & AJR music, doing DIY and playing video games (Apex Legends).
+- 🎶 Favourite song must be either 'Karma' (AJR) or 'The Story of Tonight' (Hamilton)
 - 💬 Pronouns: He/Him/His
 
 ## Get in contact
